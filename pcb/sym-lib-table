@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Model-M-RP2040")(type "KiCad")(uri "${KIPRJMOD}/Model-M-RP2040-USB.kicad_sym")(options "")(descr ""))
+)
